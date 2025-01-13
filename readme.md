@@ -1,4 +1,4 @@
-# Week 15 Live 1 - Docker, Express, Prisma Example
+ Docker, Express, Prisma Example
 
 This project is a simple Node.js backend using Express and Prisma, containerized with Docker. It demonstrates how to set up a REST API with a PostgreSQL database using Prisma ORM.
 
